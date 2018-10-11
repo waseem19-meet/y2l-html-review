@@ -1,0 +1,7 @@
+p{background-color: blue}
+#header{color:  green}
+.text{text-align: center;}
+.img{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;}
